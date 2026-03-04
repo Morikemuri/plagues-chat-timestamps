@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[dependencies.plagueschattimestamps]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36.2.39,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.plagueschattimestamps]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[mods]]
+modId="plagueschattimestamps"
+version="1.0.1"
+displayName="Plague's Chat Timestamps"
+description='''
+Adds configurable timestamps to every chat message.
+The only chat timestamp mod available for Forge 1.16.5.
+Rebuilt and patched for Forge 1.16.5 by RuleCore.
+'''
+logoFile="icon.png"
+authors="Plague1337, RuleCore, Gabrielsim, Amiya"
