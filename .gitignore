@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Forge
+run/
+src/main/generated/
+
+# OS
+.DS_Store
+Thumbs.db
